@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, table {
+  text-align: center;
+}
+
+table {
+   margin: 0 auto; 
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
